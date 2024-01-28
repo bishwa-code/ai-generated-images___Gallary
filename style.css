@@ -76,5 +76,6 @@ body {
 @media screen and (max-width: 550px) {
   .img-card figcaption {
     padding: 4px 15px;
+    font-size: 12px;
   }
 }
